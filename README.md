@@ -1,18 +1,15 @@
-# WHMCS8.0_OPay
----
+# [WHMCS - 歐付寶金流] (已棄用)
 
-## 1. 介紹
+## ⚠️ 棄用通知
 
-  - 提供WHMCS 串接歐付寶金流模組使用, 
+此專案已經被 **棄用**，並且不再進行維護或提供更新。
 
-
-## 2. 安裝環境
-  - 需有安裝一個完整的WHMCS 系統 (不相容8.0以前的版本)
- 
-
-## 3. 使用教學
-  - 使用者文件放置於資料夾內，可供參閱
+> 歐付寶暫時不再支援「套裝購物車模組」。
+模組包含：WooCommerce、OpenCart、Magento、ECSHOP、PrestaShop、osCommerce、HikaShop、VirtueMart、WHMCS
 
 
-## 4. 聯絡我們
-  - 歐付寶技術客服信箱: techsupport@opay.tw
+
+### 聯絡我們
+
+歐付寶技術客服信箱：[techsupport@opay.tw](techsupport@opay.tw)
+
